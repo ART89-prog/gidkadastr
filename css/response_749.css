@@ -1,0 +1,360 @@
+@media (max-width: 749px){      
+ 
+   
+    .service_items {
+        column-count: 2;
+        column-width: auto;
+        column-gap: 30px;
+    }
+    .benefits_list {
+        flex-wrap: wrap;
+    }  
+    .benefits_list li {
+        width: calc(100%/2 - 30px);
+    }
+    .benefits_list li br {
+        display: none;
+    }    
+    .title {
+        font-size: 26px;
+        line-height: 26px;
+        margin-bottom: 30px;
+    }
+
+    .modal_callback form .line {
+        flex-direction: column;
+    }
+    .modal_callback form .line .field {
+        margin-right: 0px;
+    }
+    .modal_callback form .input {
+        max-width: 100%;
+        margin-bottom: 12px;
+    }
+    .modal_callback .modal_title {
+        font-size: 24px;
+        line-height: 29px;
+        margin-bottom: 20px;
+    }
+    .advantages .title br {
+        display: none;
+    }    
+    .advantages_list {
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+    .team_items > * {
+        margin-left: 50px;
+        width: calc(100%/2 - 50px);
+        margin-bottom: 30px;
+    }
+    .team_items {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .contacts_wrap {
+        flex-direction: column;
+    }
+    .contacts_content {
+        max-width: 100%;
+        margin-right: 0;
+    }
+    .map_wrap {
+        width: 100%;
+    }
+    .footer_wrap {
+        flex-direction: column;
+    }
+    .footer_contacts-time {
+        text-align: center;
+    }
+    .footer_logo {
+        padding-right: 0px;
+    }
+    .footer_copy {
+        order: 1;
+    }
+
+
+    .advantages_wrap {
+        flex-direction: column;
+    }
+
+    
+    .callback_wrap {
+        flex-direction: column;
+    }
+    .callback_content {
+        max-width: 100%;
+    }
+    .callback_title br {
+        display: none;
+    }
+    .callback_text {
+        max-width: 100%;
+    }
+    .callback_form {
+        max-width: 100%;
+    }
+
+    .contacts_content-box {
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: -40px;
+    }
+    .contacts_content-box > * {
+        width: calc(100%/2 - 40px);
+        margin-left: 40px;
+    }
+
+    .header_logo a {
+        font-size: 24px;
+        line-height: 19px;
+    }
+    .header_mode {
+        width: 203px;
+        margin-left: 0;
+    }
+    .header_logo {
+        border-right: none;
+        padding-right: 50px;
+    }
+    .header_logo-weight {
+        font-size: 11px;
+        line-height: 12px;
+    }
+    .header_contacts-time {
+        font-size: 14px;
+    }
+    .header_contacts {
+        margin-top: 26px;
+    }
+    .header_title {
+        font-size: 38px;
+        line-height: 43px;
+        margin-bottom: 24px;
+    }
+    .header_subtitle br {
+        display: none;
+    }
+    .header_subtitle {
+        font-size: 16px;
+        line-height: 21px;
+        margin-bottom: 28px;
+    }
+    .header_advantages {
+        font-size: 14px;
+        line-height: 18px;
+        margin-bottom: 26px;
+        width: 309px;
+    }
+    .header_advantages li {
+        margin-bottom: 14px;
+    }
+    .form-title {
+        width: 250px;
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .header_banner-text {
+        padding: 41px 28px 40px 17px;
+        font-size: 15px;
+        line-height: 24px;
+    }
+    .header_banner {
+        width: 137px;
+        height: 171px;
+        bottom: 29%;     
+    }
+    .form-data .line {
+        flex-direction: column;
+    }
+    .form-data {
+        flex-direction: column;
+    }
+    .header_image {
+        width: 204px;
+        height: auto;
+        right: 0%;
+        bottom: 15%;
+    }
+    .form-data .line .input {
+        width: 238px;
+        height: 51px;
+        margin-right: 0;
+        margin-bottom: 7px;
+    }
+    .form-data .submit_btn {
+        width: 238px;
+        height: 51px;
+    }
+    .benefits {
+        margin-top: -35px;
+        margin-bottom: 37px;
+    }
+    .benefits_list {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .benefits_list li {
+        margin-bottom: 35px;
+    }
+    .benefits_list li:last-child {
+        margin-bottom: 0px;
+    }
+    .service_title {
+        margin-bottom: 31px;
+        font-size: 30px;
+    }
+    .service_bg {
+        width: 69px;
+        height: 203px;
+    } 
+    .service {
+        padding-bottom: 60px;
+    }
+    .callback_title {
+        font-size: 26px;
+        line-height: 26px;
+        text-align: center;
+        margin-bottom: 21px;
+    }
+    .callback_text {
+        text-align: center;
+        font-size: 16px;
+        line-height: 21px;
+        margin-bottom: 25px;
+    }
+    .callback_content {
+        margin-right: 0;
+    }
+    .callback_form .line input {
+        height: 49px;
+    }
+    .callback_form .line .field {
+        margin-bottom: 8px;
+    }
+    .callback_form .submit_btn {
+        margin: 0 auto;
+    }
+    .advantages .title {
+        font-size: 26px;
+        line-height: 26px;
+        margin-left: 0;
+        text-align: center;
+        margin-bottom: 21px;
+    }
+    .advantages_list {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .advantages_list li::before {
+        width: 16px;
+        height: 9px;
+        left: 4px;
+        top: 5px;
+    }
+    .advantages {
+        padding: 129px 0 126px;
+    }
+    .advantages_bg_left {
+        bottom: 48%;
+        width: 125px;
+        height: auto;
+    }
+    .advantages_bg_right {
+        bottom: 57%;
+        width: 83px;
+        height: auto;
+    }
+    .team_item-name {
+        font-size: 14px;
+        line-height: 21px;
+        margin-bottom: 14px;
+    }
+    .team_item-education,
+    .team_item-university,
+    .team_item-specialization,
+    .team_item-experience {
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .team_item-photo {
+        width: 137px;
+        height: 137px;
+        margin: 0px auto 10px;
+    }
+    .reviews_bg_left {
+        width: 74px;
+        height: auto;
+        bottom: 85%;
+    }
+    .reviews_bg_right {
+        width: 200px;
+        height: auto;
+        bottom: 84%;
+    }
+    .team_item:last-child {
+        margin-bottom: 0;
+    }
+    .contacts_content-box {
+        display: flex;
+        flex-wrap: wrap;
+        text-align: center;
+        margin-left: 0px;
+        margin-bottom: 30px;
+    }
+    .contacts_content-box > * {
+        width: 100%;
+        margin-left: 0px;
+    }
+    .contacts_content-time, 
+    .contacts_content-phone div, 
+    .contacts_content-email {
+        margin-bottom: 18px;
+    }
+    footer {
+        margin-top: -165px;
+    }
+    .footer_logo {
+        padding-right: 0px;
+        margin-bottom: 22px;
+    }
+    .header_contacts-phones {
+        margin-right: 20px;
+        margin-bottom: 20px;
+    }
+    .footer_logo a {
+        font-size: 28px;
+        line-height: 19px;
+    }
+    .reviews_item-author {
+        margin-bottom: 23px;
+    }
+    .reviews_item-text {
+        text-align: center;
+    }
+    
+    
+    
+}
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,381 @@
+@media (max-width: 1450px){
+    .header_banner {
+        right: 7%;
+    }
+    .header_image {
+        right: 0%;
+    }
+    .header_bg {
+        width: 126px;
+        height: 403px;
+        bottom: 190px;
+    }
+    .service_bg {
+        width: 109px;
+        height: 319px;
+    }
+    .advantages_bg_right {
+        width: 110px;
+        height: 315px;
+        bottom: 79%;
+    }
+    .reviews_bg_left {
+        width: 103px;
+        height: 284px;
+        bottom: 82%;
+    }
+    .footer_bg {
+        width: 100px;
+        height: 394px;
+    }
+}
+
+
+
+@media (max-width: 1023px){
+
+    .header_wrap {
+        display: flex;
+        align-items: center;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .header_mode {
+        margin-left: 31px;
+        width: 320px;
+        font-size: 14px;
+        line-height: 22px;
+        font-weight: 400;
+    }
+    .header_mode br {
+        display: none;
+    }
+    .header_title {
+        font-size: 68px;
+        line-height: 73px;
+        margin-bottom: 24px;
+    }
+    .header_subtitle {
+        font-size: 18px;
+        margin-bottom: 23px;
+    }
+    .header_advantages {
+        font-size: 16px;
+        margin-bottom: 23px;
+    }
+    .header_advantages li {
+        padding-left: 28px;
+        margin-bottom: 2px;
+    }
+    .header_advantages li::before {
+        width: 14px;
+        height: 8px;
+        left: 4px;
+        top: 7px;
+    }
+    .form-title {
+        font-size: 16px;
+        margin-bottom: 26px;
+    }
+    .form-data .line .input {
+        width: 208px;
+    }
+    .form-data .submit_btn {
+        width: 198px;
+    }
+    .header_banner {
+        right: 11%;
+        bottom: 23%;
+    }
+    .header_image {
+        width: 271px;
+        height: 468px;
+        right: 2%;
+        bottom: 0%;
+    }
+    header {
+        height: auto;
+        padding-bottom: 130px;
+        background-size: cover;
+    }
+    .benefits {
+        margin-top: 13px;
+        margin-bottom: 67px;
+    }
+    .benefits_list {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .title {
+        font-size: 40px;
+        line-height: 40px;
+        margin-bottom: 34px;
+    }
+    .service_item-text br {
+        display: none;
+    }
+    .service_item-text {
+        font-size: 16px;
+        line-height: 21px;
+        padding: 21px 21px 27px;
+    }
+    .callback_title br {
+        display: none;
+    }
+    .callback_title {
+        font-size: 37px;
+        line-height: 40px;
+        font-weight: 400;
+    }
+    .advantages_bg_right {
+        bottom: 57%;
+        width: 129px;
+        height: 378px;
+    }
+    .advantages_bg_left {
+        bottom: 64%;
+        width: 121px;
+        height: 384px;
+    }
+    .advantages .title {
+        font-size: 47px;
+        line-height: 44px;
+        margin-left: 0px;
+    }
+    .advantages_list {
+        font-size: 21px;
+    }
+    .advantages_list li {
+        margin-bottom: 20px;
+    }
+    .team_items {
+        margin-left: -50px;
+    }
+    .team_items > * {
+        margin-left: 50px;
+        width: calc(100%/3 - 50px);
+    }
+    .reviews_bg_left {
+        width: 114px;
+        height: 337px;
+        bottom: 57%;
+    }
+    .reviews_bg_right {
+        width: 308px;
+        height: 380px;
+    }
+    .reviews_items .slick-prev,
+    .reviews_items .slick-next {
+        top: 100%;
+        transform: translateY(30px);
+    }
+    .reviews_items .slick-prev {
+        left: calc(50% - 150px);
+    }
+    .reviews_items .slick-next {
+        left: calc(50% + 100px);
+    }
+    .slick-dots {
+        bottom: -77px;
+    }
+    .reviews_item {
+        padding-right: 27px;
+    }
+    .contacts_content-text {
+        font-size: 24px;
+        line-height: 29px;
+    }
+    .contacts_content {
+        max-width: 319px;
+        width: 100%;
+        margin-right: 70px;
+    }
+    .footer_bg {
+        width: 121px;
+        height: 364px;
+    }
+    .callback_content {
+        margin-right: 70px;
+    }
+    .header_wrap {
+        flex-wrap: wrap;
+        padding: 36px 0 29px;
+    }
+    .header_contacts {
+        margin-left: 0;
+        text-align: start;
+        margin-top: 35px;
+        flex-direction: row;
+        align-items: center;
+    }
+    .header_contacts-phones {
+        margin-right: 19px;
+    }
+    .header_contacts-phone {
+        margin-bottom: 0;
+    }
+    .header_title {
+        font-size: 48px;
+        line-height: 53px;
+        margin-bottom: 29px;
+    }
+    .header_subtitle {
+        margin-bottom: 31px;
+    }
+    .header_advantages {
+        width: 353px;
+    }
+    .header_advantages li {
+        margin-bottom: 20px;
+    }
+    .form-title {
+        width: 440px;
+    }
+    .form-title br {
+        display: none;
+    }
+    .header_image {
+        width: 247px;
+        height: auto;
+        right: 0%;
+        bottom: 5%;
+    }
+    .header_bg {
+        width: 99px;
+        height: 337px;
+        bottom: 33px;
+    }
+    .team_items {
+        margin-top: 0;
+    }
+    
+}
+
+
+@media (max-width: 969px){
+    .modal_callback .modal_title {
+        font-size: 28px;
+        line-height: 31px;
+        margin-bottom: 23px;
+    }
+    .modal_callback .modal_text {
+        font-size: 19px;
+        line-height: 25px;
+        margin-bottom: 33px;
+    }
+    .modal_callback .modal_manager-text {
+        margin-left: 29px;
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .modal_callback .modal_manager {
+        margin-bottom: 38px;
+        padding: 0;
+    }
+    .modal_callback .modal_manager-photo {
+        width: 130px;
+        height: 130px;
+    }
+    element.style {
+        display: inline-block;
+    }
+    .modal {
+        display: none;
+    }
+    .modal_callback {
+        padding: 30px;
+    }
+    .modal_callback form .line {
+        padding: 0;
+    }
+    .service {
+        margin-bottom: 57px;
+        padding-bottom: 40px;
+    }
+    .advantages {
+        padding: 176px 0 156px;
+        margin-bottom: -24px;
+    }
+    .block {
+        margin-bottom: 51px;
+    } 
+    .reviews_item-text {
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .reviews {
+        margin-bottom: 51px;
+        padding: 47px 0 100px;
+    }
+    .contacts {
+        margin-bottom: 110px;
+    }
+    .header_wrap {
+        padding: 36px 0 29px;
+    }
+    .advantages {
+        margin-bottom: 0;
+    }
+    .callback {
+        margin-bottom: 110px;
+    }
+    .header_bg {
+        width: 82px;
+        height: 260px;
+        bottom: 14%;
+    }
+    .header_banner-text {
+        font-size: 20px;
+        line-height: 25px;
+        padding: 64px 29px 40px 17px;
+    }
+    .title {
+        font-size: 31px;
+        line-height: 31px;
+        margin-bottom: 43px;
+    }
+
+}
+
+
+
+
+@media (max-width: 875px){
+    .reviews_item {
+        padding-right: 0px;
+    }
+    .reviews_items {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .contacts_content-box {
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: -40px;
+        margin-bottom: 30px;
+    }
+    .contacts_content-box > * {
+        width: calc(100%/2 - 40px);
+        margin-left: 40px;
+    }
+    .contacts_wrap {
+        flex-direction: column;
+        margin-top: 50px;
+    }
+    .contacts_content {
+        max-width: 100%;
+        margin-right: 0;
+    }
+    .contacts_content-text {
+        text-align: center;
+    }
+    .map_wrap {
+        width: 100%;
+        border-radius: 12px;
+        height: 268px;
+    }
+}
+
+ 
+
+

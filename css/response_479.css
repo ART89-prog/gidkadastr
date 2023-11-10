@@ -1,0 +1,208 @@
+@media (max-width: 479px) {
+
+
+    .service_items {
+        column-count: 1;
+        column-gap: 0;
+    }
+    .service_item-img {
+        max-width: 100%;
+        height: auto;
+    }
+    .modal_callback .modal_manager {
+        flex-direction: column;
+    }
+    .modal_callback .modal_manager-text {
+        margin-left: 0;
+        font-size: 16px;
+        line-height: 23px;
+        text-align: center;
+    }
+    .team_items > * {
+        width: 100%;
+        margin-left: 0;
+    }
+    .team_items {
+        margin-left: 0;
+    }
+    .benefits_list li {
+        width: 100%;
+    }
+    .header_contacts {
+        flex-direction: column;
+    }
+    .modal_callback .modal_title {
+        font-size: 18px;
+        line-height: 23px;
+    }
+    .modal_callback .modal_text {
+        font-size: 16px;
+        line-height: 23px;
+        margin-bottom: 18px;
+    }
+    .modal_callback .modal_manager-text {
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .modal_callback .modal_manager {
+        margin-bottom: 22px;
+    }
+    .header_wrap {
+        padding: 20px 0 26px;
+        flex-direction: column;
+    }
+    .header_logo {
+        padding-right: 0px;
+        margin-bottom: 15px;
+    }
+    .header_mode {
+        width: 100%;
+        text-align: center;
+        font-size: 12px;
+        line-height: 18px;
+        margin-bottom: 19px;
+    }
+    .header_contacts-time {
+        text-align: center;
+    }
+    .header_contacts-popup {
+        margin: 0px auto;
+    }
+    header {
+        padding-bottom: 350px;
+    }
+    .header_image {
+        width: 151px;
+        height: auto;
+        right: 27%;
+        bottom: 8%;
+    }
+    .header_logo {
+        margin-bottom: 21px;
+    }
+    .header_contacts {
+        margin-top: 0px;
+    }
+    .header_title {
+        font-size: 24px;
+        line-height: 28px;
+        margin-bottom: 21px;
+        text-align: center;
+    }
+    .header_subtitle {
+        font-size: 14px;
+        line-height: 19px;
+        margin-bottom: 16px;
+        text-align: center;
+    }
+    .form-title {
+        width: 100%;
+        text-align: center;
+    }
+    .form-data .line .input {
+        width: 100%;
+    }
+    .form-data .submit_btn {
+        width: 100%;
+    }
+    .header_banner {
+        bottom: 14%;
+        right: 50%;
+    }
+    .benefits {
+        margin-top: -65px;
+        margin-bottom: 45px;
+    }
+    .benefits_list-icon img {
+        margin: 0 auto 17px;
+    }
+    .benefits_list li {
+        margin-bottom: 31px;
+    }
+    .service_item-text {
+        font-size: 14px;
+        line-height: 21px;
+        padding: 23px;
+    }
+    .service_item-link {    
+        margin: 0 auto 23px;
+    }
+    .title {
+        font-size: 24px;
+        line-height: 24px;
+        margin-bottom: 22px;
+    }
+    .service_bg {
+        width: 43px;
+        height: auto;
+    }
+    .service {
+        padding-bottom: 10px;
+    }
+    .advantages_bg_right {
+        bottom: 71%;
+        width: 53px;
+        height: auto;
+    }
+    .advantages_list {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .advantages_list li {
+        margin-bottom: 16px;
+    }
+    .advantages {
+        padding: 129px 0 111px;
+    }
+    .team_title br {
+        display: none;
+    }
+    .team {
+        margin-top: -40px;
+    }
+    .reviews_bg_left {
+        width: 51px;
+        height: auto;
+        bottom: 93%;
+    }
+    .reviews_bg_right {
+        width: 128px;
+        height: auto;
+        bottom: 97%;
+    }
+    .reviews_item-description {
+        margin-left: 15px;
+        font-size: 16px;
+    }
+    .reviews_item-photo {
+        width: 72px;
+        height: 72px;
+    }
+    .reviews_item-city {
+        font-size: 14px;
+    }
+    .reviews_item-author {
+        margin-bottom: 16px;
+    }
+    .contacts_content-time, 
+    .contacts_content-phone div, 
+    .contacts_content-email {
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .footer_bg {
+        display: none;
+    }
+    .header_contacts-phones {
+        margin-right: 00px;
+    }
+    .reviews_items .slick-next {
+        left: calc(50% + 70px);
+    }    
+    .reviews_items .slick-prev {
+        left: calc(50% - 135px);
+    }
+    
+    
+
+}
